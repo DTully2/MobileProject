@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Project 1 Devon</string>
+    <string name="name">Devon</string>
+    <string name="description">This app is an event logger with a date/time picker and a recycler view to display the events</string>
+    <string name="settings">Settings</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="addEvent">Add Event</string>
+    <string name="clearData">Clear data</string>
+    <string name="removeLast">Remove Last Event</string>
+    <string name="eventName">Event Name</string>
+
+</resources>
